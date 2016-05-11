@@ -11,6 +11,8 @@ info - Indica como contactar
 
 osinfo - Indica con que sistema operativo está interactuando
 
+teclado - Genera un teclado custom
+
 host - Indica con que servidor está interactuando
 
 creditos - Equipo Desarrollador
